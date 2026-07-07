@@ -45,6 +45,7 @@
 | [0007-reverse-integer](https://github.com/kamaldkd/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kamaldkd/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/kamaldkd/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/kamaldkd/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kamaldkd/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/kamaldkd/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
