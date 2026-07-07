@@ -14,11 +14,13 @@
 | [0027-remove-element](https://github.com/kamaldkd/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kamaldkd/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/kamaldkd/leetcode-solutions/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kamaldkd/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamaldkd/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/kamaldkd/leetcode-solutions/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
 | ------- |
