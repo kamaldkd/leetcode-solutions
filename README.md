@@ -81,6 +81,7 @@
 | [0032-longest-valid-parentheses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kamaldkd/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/kamaldkd/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/kamaldkd/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0075-sort-colors](https://github.com/kamaldkd/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kamaldkd/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kamaldkd/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
