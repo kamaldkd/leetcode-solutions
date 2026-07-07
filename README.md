@@ -26,6 +26,7 @@
 | [0074-search-a-2d-matrix](https://github.com/kamaldkd/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kamaldkd/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kamaldkd/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0061-rotate-list](https://github.com/kamaldkd/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kamaldkd/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kamaldkd/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0049-group-anagrams](https://github.com/kamaldkd/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kamaldkd/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kamaldkd/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Stack
 |  |
 | ------- |
