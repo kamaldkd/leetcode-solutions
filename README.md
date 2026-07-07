@@ -29,6 +29,7 @@
 | [0088-merge-sorted-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamaldkd/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamaldkd/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/kamaldkd/leetcode-solutions/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0042-trapping-rain-water](https://github.com/kamaldkd/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kamaldkd/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kamaldkd/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/kamaldkd/leetcode-solutions/tree/master/0118-pascals-triangle) |
 ## Monotonic Stack
 |  |
 | ------- |
