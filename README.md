@@ -46,6 +46,7 @@
 | [0009-palindrome-number](https://github.com/kamaldkd/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/kamaldkd/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kamaldkd/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kamaldkd/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0032-longest-valid-parentheses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kamaldkd/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kamaldkd/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/kamaldkd/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kamaldkd/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kamaldkd/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
