@@ -17,12 +17,14 @@
 | [0041-first-missing-positive](https://github.com/kamaldkd/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kamaldkd/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kamaldkd/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/kamaldkd/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kamaldkd/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamaldkd/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/kamaldkd/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/kamaldkd/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0020-valid-parentheses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamaldkd/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/kamaldkd/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,6 +94,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kamaldkd/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kamaldkd/leetcode-solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/kamaldkd/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
