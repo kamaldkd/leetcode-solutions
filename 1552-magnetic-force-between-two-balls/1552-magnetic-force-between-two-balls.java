@@ -12,7 +12,9 @@ class Solution {
         return m <= 0;
     }
     public int maxDistance(int[] position, int m) {
-        int[] positions = position;
+        // int[] positions = Arrays.copyOf(position, position.length); OR
+        int[] positions =position.clone();
+
         Arrays.sort(positions);
 
         int n = positions.length;
