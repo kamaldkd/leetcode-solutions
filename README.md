@@ -34,6 +34,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kamaldkd/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kamaldkd/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kamaldkd/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/kamaldkd/leetcode-solutions/tree/master/0136-single-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kamaldkd/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
@@ -247,4 +248,8 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kamaldkd/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kamaldkd/leetcode-solutions/tree/master/0130-surrounded-regions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kamaldkd/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
