@@ -1,25 +1,18 @@
-import java.util.Stack;
 class Solution {
     public String reverseWords(String s) {
-    Stack<String> st = new Stack <>();
-    StringBuilder sb;
-        for(int i=0; i<s.length(); i++){
-            sb = new StringBuilder();
-            while( i<s.length()&& s.charAt(i) != ' '){
-                sb.append(s.charAt(i));
-                i++;
+        String[] s1 = s.trim().split("\\s+");
+        StringBuilder sb = new StringBuilder();
+        int i = s1.length-1;
+        while(i >= 0){
+            if(i==s1.length-1){
+                sb.append(s1[i]);
             }
-            if(sb.length() != 0){
-                st.push( sb.toString());
+            else{
+                sb.append(" ");
+                sb.append(s1[i]);
             }
+            i--;
         }
-        sb = new StringBuilder();
-        while ( st.size() != 1){
-            sb.append( st.pop() );
-            sb.append(" ");
-        }
-        sb.append( st.pop());
-
         return sb.toString();
     }
 }
