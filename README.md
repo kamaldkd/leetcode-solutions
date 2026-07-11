@@ -159,6 +159,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/kamaldkd/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kamaldkd/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kamaldkd/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kamaldkd/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamaldkd/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kamaldkd/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kamaldkd/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kamaldkd/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/kamaldkd/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/kamaldkd/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kamaldkd/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kamaldkd/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -243,6 +246,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamaldkd/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kamaldkd/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kamaldkd/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kamaldkd/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
