@@ -1,35 +1,45 @@
 class Solution {
     public int myAtoi(String s) {
-        String s2 = s.trim();
-        if (s2.isEmpty()) return 0;
+        if (s == null || s.length() == 0) {
+            return 0;
+        }
 
-        int result = 0;
         int index = 0;
-        boolean isNegative = false;
+        int n = s.length();
+        int sign = 1;
+        int total = 0;
 
-        if (index < s2.length() && s2.charAt(index) == '-') {
-            isNegative = true;
-            index++;
-        } else if (index < s2.length() && s2.charAt(index) == '+') {
+        // 1. Skip leading whitespaces
+        while (index < n && s.charAt(index) == ' ') {
             index++;
         }
 
-        for (; index < s2.length(); index++) {
-            if (s2.charAt(index) < 48 || s2.charAt(index) > 57)
-                break;
+        // 2. Check for optional sign character
+        if (index < n && (s.charAt(index) == '+' || s.charAt(index) == '-')) {
+            sign = (s.charAt(index) == '-') ? -1 : 1;
+            index++;
+        }
 
-            int digit = s2.charAt(index) - '0';
+        // 3. Convert valid digit characters and check bounds
+        while (index < n) {
+            char currChar = s.charAt(index);
             
-            if (isNegative ? -result < Integer.MIN_VALUE / 10 : result > Integer.MAX_VALUE / 10) {
-                return isNegative ? Integer.MIN_VALUE : Integer.MAX_VALUE;
-            } else if (result == Integer.MAX_VALUE / 10) {
-                if (isNegative ? digit > 8 : digit > 7) {
-                    return isNegative ? Integer.MIN_VALUE : Integer.MAX_VALUE;
-                }
+            // Break early at the first non-digit character
+            if (currChar < '0' || currChar > '9') {
+                break;
             }
-            result = result * 10 + digit;
+
+            int digit = currChar - '0';
+
+            // 4. Handle rounding/overflow conditions
+            if (total > Integer.MAX_VALUE / 10 || (total == Integer.MAX_VALUE / 10 && digit > 7)) {
+                return (sign == 1) ? Integer.MAX_VALUE : Integer.MIN_VALUE;
+            }
+
+            total = total * 10 + digit;
+            index++;
         }
-        
-        return isNegative ? -result : result;
+
+        return total * sign;
     }
 }
