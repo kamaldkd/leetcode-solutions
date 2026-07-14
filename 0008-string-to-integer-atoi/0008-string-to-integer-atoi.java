@@ -1,6 +1,8 @@
 class Solution {
     public int myAtoi(String s) {
         String s2 = s.trim();
+        if (s2.isEmpty()) return 0; // Add this early
+
         int result = 0;
         int index = 0;
         boolean isNegative = false;
@@ -18,6 +20,7 @@ class Solution {
                 break;
 
             int digit = s2.charAt(index) - '0';
+            
             if (isNegative ? -result < Integer.MIN_VALUE / 10 : result > Integer.MAX_VALUE / 10) {
                 return isNegative ? Integer.MIN_VALUE : Integer.MAX_VALUE;
             } else if (result == Integer.MAX_VALUE / 10) {
