@@ -178,6 +178,7 @@
 | [0234-palindrome-linked-list](https://github.com/kamaldkd/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kamaldkd/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/kamaldkd/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## String Matching
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/kamaldkd/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kamaldkd/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/kamaldkd/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -292,4 +294,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kamaldkd/leetcode-solutions/tree/master/0136-single-number) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/kamaldkd/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/kamaldkd/leetcode-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
