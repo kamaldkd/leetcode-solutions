@@ -5,7 +5,7 @@ class Solution {
         HashMap<Integer, Integer> map = new HashMap<>();
         map.put(nums2[n-1], -1);
 
-        Stack<Integer> st = new Stack<>();
+        Deque<Integer> st = new ArrayDeque<>();
         st.push(nums2.length - 1); 
 
         for(int i = nums2.length - 2; i >= 0; i--) {
