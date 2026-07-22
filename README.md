@@ -36,6 +36,7 @@
 | [0130-surrounded-regions](https://github.com/kamaldkd/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/kamaldkd/leetcode-solutions/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kamaldkd/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/kamaldkd/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kamaldkd/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
@@ -176,6 +177,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kamaldkd/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/kamaldkd/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kamaldkd/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## String Matching
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [0042-trapping-rain-water](https://github.com/kamaldkd/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kamaldkd/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kamaldkd/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
