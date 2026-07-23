@@ -19,6 +19,7 @@ class Solution {
 
         min = Math.min(root.val, min);
         max = Math.max(root.val, max);
+        
         int leftDiff = maxDiff(root.left, min, max);
         int rightDiff = maxDiff(root.right, min, max);
 
