@@ -17,9 +17,9 @@ class Solution {
     public int maxDiff(TreeNode root, int min, int max) {
         if(root == null) return max-min;
 
-        min = Math.min(root.val, min);
-        max = Math.max(root.val, max);
-        
+        min = Math.min(min, root.val);
+        max = Math.max(max, root.val);
+
         int leftDiff = maxDiff(root.left, min, max);
         int rightDiff = maxDiff(root.right, min, max);
 
