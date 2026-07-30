@@ -83,6 +83,7 @@
 | [0048-rotate-image](https://github.com/kamaldkd/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kamaldkd/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kamaldkd/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kamaldkd/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -106,6 +107,7 @@
 | [0076-minimum-window-substring](https://github.com/kamaldkd/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kamaldkd/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kamaldkd/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kamaldkd/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
 | ------- |
