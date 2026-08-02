@@ -37,6 +37,7 @@
 | [0136-single-number](https://github.com/kamaldkd/leetcode-solutions/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kamaldkd/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/kamaldkd/leetcode-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kamaldkd/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kamaldkd/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -83,6 +84,7 @@
 | [0048-rotate-image](https://github.com/kamaldkd/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kamaldkd/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kamaldkd/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/kamaldkd/leetcode-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kamaldkd/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -203,6 +205,7 @@
 | [0119-pascals-triangle-ii](https://github.com/kamaldkd/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kamaldkd/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamaldkd/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0877-stone-game](https://github.com/kamaldkd/leetcode-solutions/tree/master/0877-stone-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -353,4 +356,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kamaldkd/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
