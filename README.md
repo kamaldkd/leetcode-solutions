@@ -40,6 +40,7 @@
 | [0877-stone-game](https://github.com/kamaldkd/leetcode-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kamaldkd/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/kamaldkd/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kamaldkd/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
@@ -350,11 +351,13 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/kamaldkd/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kamaldkd/leetcode-solutions/tree/master/0207-course-schedule) |
+| [1514-path-with-maximum-probability](https://github.com/kamaldkd/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
@@ -367,4 +370,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kamaldkd/leetcode-solutions/tree/master/0877-stone-game) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/kamaldkd/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
