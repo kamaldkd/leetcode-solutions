@@ -41,6 +41,7 @@
 | [0904-fruit-into-baskets](https://github.com/kamaldkd/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kamaldkd/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0069-sqrtx](https://github.com/kamaldkd/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/kamaldkd/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kamaldkd/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [0073-set-matrix-zeroes](https://github.com/kamaldkd/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kamaldkd/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/kamaldkd/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -276,6 +279,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kamaldkd/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kamaldkd/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kamaldkd/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -314,11 +318,13 @@
 | [0130-surrounded-regions](https://github.com/kamaldkd/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/kamaldkd/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/kamaldkd/leetcode-solutions/tree/master/0207-course-schedule) |
+| [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kamaldkd/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kamaldkd/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -344,6 +350,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
