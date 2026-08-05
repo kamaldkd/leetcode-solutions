@@ -281,6 +281,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/kamaldkd/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kamaldkd/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3310-remove-methods-from-project](https://github.com/kamaldkd/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,6 +321,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/kamaldkd/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/kamaldkd/leetcode-solutions/tree/master/0207-course-schedule) |
 | [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3310-remove-methods-from-project](https://github.com/kamaldkd/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -358,6 +360,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/kamaldkd/leetcode-solutions/tree/master/0207-course-schedule) |
 | [1514-path-with-maximum-probability](https://github.com/kamaldkd/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
+| [3310-remove-methods-from-project](https://github.com/kamaldkd/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
