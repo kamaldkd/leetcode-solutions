@@ -208,6 +208,7 @@
 | [0119-pascals-triangle-ii](https://github.com/kamaldkd/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kamaldkd/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamaldkd/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kamaldkd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/kamaldkd/leetcode-solutions/tree/master/0877-stone-game) |
 ## Monotonic Stack
 |  |
@@ -279,6 +280,7 @@
 | [0207-course-schedule](https://github.com/kamaldkd/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kamaldkd/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kamaldkd/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kamaldkd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kamaldkd/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/kamaldkd/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -320,6 +322,7 @@
 | [0130-surrounded-regions](https://github.com/kamaldkd/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/kamaldkd/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/kamaldkd/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kamaldkd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/kamaldkd/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -352,6 +355,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kamaldkd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/kamaldkd/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -359,6 +363,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kamaldkd/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kamaldkd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/kamaldkd/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [3310-remove-methods-from-project](https://github.com/kamaldkd/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
@@ -376,5 +381,6 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kamaldkd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/kamaldkd/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
