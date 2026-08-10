@@ -87,6 +87,7 @@
 | [0048-rotate-image](https://github.com/kamaldkd/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kamaldkd/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kamaldkd/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/kamaldkd/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/kamaldkd/leetcode-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kamaldkd/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -97,6 +98,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/kamaldkd/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/kamaldkd/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kamaldkd/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/kamaldkd/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kamaldkd/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -339,6 +341,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kamaldkd/leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kamaldkd/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Design
 |  |
 | ------- |
