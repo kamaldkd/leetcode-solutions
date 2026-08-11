@@ -265,6 +265,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kamaldkd/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kamaldkd/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kamaldkd/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kamaldkd/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kamaldkd/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kamaldkd/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
@@ -287,6 +288,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/kamaldkd/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/kamaldkd/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kamaldkd/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kamaldkd/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kamaldkd/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kamaldkd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kamaldkd/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -314,6 +316,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kamaldkd/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kamaldkd/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kamaldkd/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kamaldkd/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kamaldkd/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kamaldkd/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
@@ -330,6 +333,7 @@
 | [0130-surrounded-regions](https://github.com/kamaldkd/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/kamaldkd/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/kamaldkd/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kamaldkd/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kamaldkd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/kamaldkd/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
