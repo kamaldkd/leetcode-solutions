@@ -37,6 +37,7 @@
 | [0136-single-number](https://github.com/kamaldkd/leetcode-solutions/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/kamaldkd/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/kamaldkd/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/kamaldkd/leetcode-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kamaldkd/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
