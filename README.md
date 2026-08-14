@@ -66,6 +66,7 @@
 | [0763-partition-labels](https://github.com/kamaldkd/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/kamaldkd/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [1079-letter-tile-possibilities](https://github.com/kamaldkd/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 ## Linked List
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/kamaldkd/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0763-partition-labels](https://github.com/kamaldkd/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0929-unique-email-addresses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [1079-letter-tile-possibilities](https://github.com/kamaldkd/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -376,6 +378,7 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/kamaldkd/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [1079-letter-tile-possibilities](https://github.com/kamaldkd/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -398,6 +401,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1079-letter-tile-possibilities](https://github.com/kamaldkd/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
