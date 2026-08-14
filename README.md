@@ -301,6 +301,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/kamaldkd/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kamaldkd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kamaldkd/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/kamaldkd/leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/kamaldkd/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -345,6 +346,7 @@
 | [0207-course-schedule](https://github.com/kamaldkd/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kamaldkd/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kamaldkd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/kamaldkd/leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/kamaldkd/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -392,6 +394,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/kamaldkd/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kamaldkd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/kamaldkd/leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1514-path-with-maximum-probability](https://github.com/kamaldkd/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [3310-remove-methods-from-project](https://github.com/kamaldkd/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
@@ -412,4 +415,8 @@
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kamaldkd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/kamaldkd/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/kamaldkd/leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
