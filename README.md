@@ -123,6 +123,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kamaldkd/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kamaldkd/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0763-partition-labels](https://github.com/kamaldkd/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0925-long-pressed-name](https://github.com/kamaldkd/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1079-letter-tile-possibilities](https://github.com/kamaldkd/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -174,6 +175,7 @@
 | [0234-palindrome-linked-list](https://github.com/kamaldkd/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kamaldkd/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0763-partition-labels](https://github.com/kamaldkd/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0925-long-pressed-name](https://github.com/kamaldkd/leetcode-solutions/tree/master/0925-long-pressed-name) |
 ## Greedy
 |  |
 | ------- |
