@@ -46,6 +46,7 @@
 | [1514-path-with-maximum-probability](https://github.com/kamaldkd/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kamaldkd/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kamaldkd/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Memoization
 |  |
 | ------- |
