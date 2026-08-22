@@ -283,6 +283,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kamaldkd/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kamaldkd/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kamaldkd/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/kamaldkd/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamaldkd/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kamaldkd/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
@@ -307,6 +308,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kamaldkd/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kamaldkd/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kamaldkd/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/kamaldkd/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kamaldkd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kamaldkd/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/kamaldkd/leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -336,6 +338,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kamaldkd/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kamaldkd/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kamaldkd/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/kamaldkd/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamaldkd/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/kamaldkd/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
@@ -383,6 +386,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kamaldkd/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kamaldkd/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/kamaldkd/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamaldkd/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Backtracking
 |  |
