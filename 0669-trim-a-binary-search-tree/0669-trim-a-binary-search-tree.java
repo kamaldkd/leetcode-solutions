@@ -24,7 +24,6 @@ class Solution {
             return trimBST(root.left, low, high);
         } else {
             root.left = trimBST(root.left, low, high);
-            ;
             root.right = trimBST(root.right, low, high);
         }
 
