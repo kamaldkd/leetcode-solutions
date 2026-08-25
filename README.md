@@ -48,6 +48,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/kamaldkd/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kamaldkd/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0929-unique-email-addresses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1079-letter-tile-possibilities](https://github.com/kamaldkd/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamaldkd/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kamaldkd/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
