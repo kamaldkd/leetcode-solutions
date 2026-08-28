@@ -43,6 +43,7 @@
 | [0877-stone-game](https://github.com/kamaldkd/leetcode-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kamaldkd/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [0957-prison-cells-after-n-days](https://github.com/kamaldkd/leetcode-solutions/tree/master/0957-prison-cells-after-n-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/kamaldkd/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kamaldkd/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -69,6 +70,7 @@
 | [0763-partition-labels](https://github.com/kamaldkd/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/kamaldkd/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [0957-prison-cells-after-n-days](https://github.com/kamaldkd/leetcode-solutions/tree/master/0957-prison-cells-after-n-days) |
 | [1079-letter-tile-possibilities](https://github.com/kamaldkd/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamaldkd/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kamaldkd/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -102,6 +104,7 @@
 | [0231-power-of-two](https://github.com/kamaldkd/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/kamaldkd/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0877-stone-game](https://github.com/kamaldkd/leetcode-solutions/tree/master/0877-stone-game) |
+| [0957-prison-cells-after-n-days](https://github.com/kamaldkd/leetcode-solutions/tree/master/0957-prison-cells-after-n-days) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kamaldkd/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kamaldkd/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -380,6 +383,7 @@
 | ------- |
 | [0136-single-number](https://github.com/kamaldkd/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kamaldkd/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0957-prison-cells-after-n-days](https://github.com/kamaldkd/leetcode-solutions/tree/master/0957-prison-cells-after-n-days) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kamaldkd/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Design
 |  |
@@ -441,4 +445,8 @@
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/kamaldkd/leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0957-prison-cells-after-n-days](https://github.com/kamaldkd/leetcode-solutions/tree/master/0957-prison-cells-after-n-days) |
 <!---LeetCode Topics End-->
