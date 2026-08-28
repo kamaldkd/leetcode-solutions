@@ -25,7 +25,7 @@ class Solution {
             int [] next = new int[8];
             
             // calculate next day
-            for(int i = 1; i < 7; i++) { // i= 0 to 7
+            for(int i = 1; i < 7; i++) { // i= 1 to 7
                 if(prev[i - 1] == prev[i + 1]) {
                     next[i] = 1;
                 }
