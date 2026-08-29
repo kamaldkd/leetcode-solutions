@@ -124,6 +124,7 @@
 | [0008-string-to-integer-atoi](https://github.com/kamaldkd/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/kamaldkd/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamaldkd/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kamaldkd/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -234,6 +235,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kamaldkd/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kamaldkd/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -405,6 +407,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/kamaldkd/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [1079-letter-tile-possibilities](https://github.com/kamaldkd/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 ## Heap (Priority Queue)
@@ -449,4 +452,8 @@
 |  |
 | ------- |
 | [0957-prison-cells-after-n-days](https://github.com/kamaldkd/leetcode-solutions/tree/master/0957-prison-cells-after-n-days) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
