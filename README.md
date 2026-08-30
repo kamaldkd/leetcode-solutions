@@ -48,6 +48,7 @@
 | [1514-path-with-maximum-probability](https://github.com/kamaldkd/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kamaldkd/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kamaldkd/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -194,6 +195,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kamaldkd/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/kamaldkd/leetcode-solutions/tree/master/0763-partition-labels) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
