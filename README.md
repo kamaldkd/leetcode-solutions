@@ -93,6 +93,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/kamaldkd/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/kamaldkd/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/kamaldkd/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kamaldkd/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
 | ------- |
