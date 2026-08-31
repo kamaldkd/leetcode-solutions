@@ -17,10 +17,6 @@ class Solution {
         ListNode prev = head;
         ListNode curr = head.next;
 
-        int[] dist = new int[2];
-        dist[0] = -1;  // minDistance
-        dist[1] = -1;  // maxDistance
-
         int index = 1;
         while(curr.next != null) {
             index++;
@@ -35,6 +31,8 @@ class Solution {
         }
 
         if(criticals.size() >= 2) {
+            int[] dist = new int[2];
+
             dist[1] = criticals.get(criticals.size() - 1) - criticals.get(0);
 
             dist[0] = Integer.MAX_VALUE;
@@ -43,9 +41,10 @@ class Solution {
 
                 dist[0] = Math.min(dist[0], min);
             }
+
+            return dist;
         }
-        
-        return dist;
+        return new int[]{-1, -1};
     }
 }
 
