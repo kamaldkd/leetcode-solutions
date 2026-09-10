@@ -54,6 +54,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/kamaldkd/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kamaldkd/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/kamaldkd/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0763-partition-labels](https://github.com/kamaldkd/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0925-long-pressed-name](https://github.com/kamaldkd/leetcode-solutions/tree/master/0925-long-pressed-name) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Greedy
 |  |
 | ------- |
