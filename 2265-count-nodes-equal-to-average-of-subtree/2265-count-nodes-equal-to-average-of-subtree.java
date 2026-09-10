@@ -17,12 +17,6 @@ class Solution {
     int ans = 0;
     public int[] dfs(TreeNode node) {
         if(node == null) return new int[]{0, 0};
-
-        if(node.left == null && node.right == null) {
-            ans++;
-            System.out.println(node.val);
-            return new int[] {node.val, 1}; // subtreeSum, subtreeCount
-        }
         
         int[] left = dfs(node.left);
         int[] right = dfs(node.right);
