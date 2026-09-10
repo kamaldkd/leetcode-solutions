@@ -24,8 +24,7 @@ class Solution {
         int subtreeSum = left[0] + right[0] + node.val;
         int subtreeCount = left[1] + right[1] + 1;
 
-        int avg = Math.round(subtreeSum / subtreeCount);
-        if(avg == node.val) ans++;
+        if(Math.round(subtreeSum / subtreeCount) == node.val) ans++;
 
         return new int[]{subtreeSum, subtreeCount};
     }
