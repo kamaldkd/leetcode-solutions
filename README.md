@@ -35,6 +35,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kamaldkd/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kamaldkd/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/kamaldkd/leetcode-solutions/tree/master/0136-single-number) |
+| [0284-peeking-iterator](https://github.com/kamaldkd/leetcode-solutions/tree/master/0284-peeking-iterator) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kamaldkd/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -411,6 +412,7 @@
 ## Design
 |  |
 | ------- |
+| [0284-peeking-iterator](https://github.com/kamaldkd/leetcode-solutions/tree/master/0284-peeking-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamaldkd/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/kamaldkd/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -489,4 +491,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/kamaldkd/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/kamaldkd/leetcode-solutions/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
