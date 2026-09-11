@@ -51,6 +51,7 @@
 | [1631-path-with-minimum-effort](https://github.com/kamaldkd/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kamaldkd/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kamaldkd/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kamaldkd/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -78,6 +79,7 @@
 | [0957-prison-cells-after-n-days](https://github.com/kamaldkd/leetcode-solutions/tree/master/0957-prison-cells-after-n-days) |
 | [1079-letter-tile-possibilities](https://github.com/kamaldkd/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamaldkd/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kamaldkd/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kamaldkd/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
@@ -128,6 +130,7 @@
 | [0231-power-of-two](https://github.com/kamaldkd/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kamaldkd/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/kamaldkd/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kamaldkd/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -482,4 +485,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/kamaldkd/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
