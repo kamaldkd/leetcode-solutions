@@ -1,47 +1,25 @@
 class Solution {
-    static class Pair {
-        int x, y;
-        public Pair(int x, int y) {
-            this.x = x;
-            this.y = y; 
-        }
-    }
     public int largestOverlap(int[][] img1, int[][] img2) {
-        ArrayList<Pair> ones1 = new ArrayList<>();
-        ArrayList<Pair> ones2 = new ArrayList<>();
-
         int n = img1.length;
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < n; j++) {
-                if(img1[i][j] == 1) ones1.add(new Pair(i, j));
-                if(img2[i][j] == 1) ones2.add(new Pair(i, j));
+        // collect every coordinate that holds a 1
+        List<int[]> A = new ArrayList<>();
+        List<int[]> B = new ArrayList<>();
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < n; ++j) {
+                if (img1[i][j] == 1) A.add(new int[]{i, j});
+                if (img2[i][j] == 1) B.add(new int[]{i, j});
             }
         }
-        
-        int ans = 0;
-        for(Pair i1 : ones1) {
-            int x = i1.x;
-            int y = i1.y;
-            
-            for(Pair i2 : ones2) {
-                int dx = i2.x - x;
-                int dy = i2.y - y;
-                int temp = 0;
-                for(int i = 0; i < ones1.size(); i++) {
-                    Pair p = ones1.get(i);
-                    int nx = p.x + dx;
-                    int ny = p.y + dy;
-
-                    if(nx < 0 || nx >= n || ny < 0 || ny >= n) continue;
-
-                    if(img2[nx][ny] == 1) temp++;
-                }
-
-                ans = Math.max(ans, temp);
+        int[][] cnt = new int[2 * n][2 * n];
+        int best = 0;
+        for (int[] a : A) {
+            for (int[] b : B) {
+                int dx = b[0] - a[0] + n;
+                int dy = b[1] - a[1] + n;
+                best = Math.max(best, ++cnt[dx][dy]);
             }
         }
-
-        return ans;
+        return best;
     }
 }
 
