@@ -153,6 +153,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kamaldkd/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kamaldkd/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0763-partition-labels](https://github.com/kamaldkd/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kamaldkd/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/kamaldkd/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1079-letter-tile-possibilities](https://github.com/kamaldkd/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
@@ -215,6 +216,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kamaldkd/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/kamaldkd/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kamaldkd/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kamaldkd/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
@@ -250,6 +252,7 @@
 | [0496-next-greater-element-i](https://github.com/kamaldkd/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kamaldkd/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kamaldkd/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kamaldkd/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kamaldkd/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
@@ -488,6 +491,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kamaldkd/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kamaldkd/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kamaldkd/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
